@@ -1,0 +1,11 @@
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\bin\Debug\MediaDaTurma.exe.config
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\bin\Debug\MediaDaTurma.exe
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\bin\Debug\MediaDaTurma.pdb
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\obj\Debug\MediaDaTurma.csproj.AssemblyReference.cache
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\obj\Debug\MediaDaTurma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\obj\Debug\MediaDaTurma.Form1.resources
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\obj\Debug\MediaDaTurma.Properties.Resources.resources
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\obj\Debug\MediaDaTurma.csproj.GenerateResource.cache
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\obj\Debug\MediaDaTurma.csproj.CoreCompileInputs.cache
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\obj\Debug\MediaDaTurma.exe
+C:\Users\Werik\Documents\Estudos\Facul\C#GUI\MediaDaTurma\obj\Debug\MediaDaTurma.pdb
